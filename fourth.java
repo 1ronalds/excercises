@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class third {
+public class fourth {
     public static void main(String[] args) {
         System.out.println("Enter whole number:");
         Scanner sc = new Scanner(System.in);
